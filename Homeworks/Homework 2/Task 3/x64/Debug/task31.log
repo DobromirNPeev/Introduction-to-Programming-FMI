@@ -1,0 +1,3 @@
+﻿  task31.cpp
+D:\task31\task31.cpp(65,20): warning C4018: '<': signed/unsigned mismatch
+  task31.vcxproj -> D:\updr2\x64\Debug\task31.exe

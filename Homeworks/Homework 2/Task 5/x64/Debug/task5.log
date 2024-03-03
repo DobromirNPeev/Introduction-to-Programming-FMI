@@ -1,0 +1,3 @@
+﻿  task5.cpp
+D:\task5\task5.cpp(20,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  task5.vcxproj -> D:\updr2\x64\Debug\task5.exe

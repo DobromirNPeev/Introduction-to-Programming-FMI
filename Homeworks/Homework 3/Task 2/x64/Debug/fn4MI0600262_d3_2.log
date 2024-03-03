@@ -1,0 +1,3 @@
+﻿  fn4MI0600262_d3_2.cpp
+D:\fn4MI0600262_d3_2\fn4MI0600262_d3_2.cpp(65,107): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  fn4MI0600262_d3_2.vcxproj -> D:\fn4MI0600262_d3_1\x64\Debug\fn4MI0600262_d3_2.exe

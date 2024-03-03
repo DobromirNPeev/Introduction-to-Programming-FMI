@@ -1,0 +1,4 @@
+﻿  fn4MI0600262_d3_4.cpp
+D:\fn4MI0600262_d3_4\fn4MI0600262_d3_4.cpp(16,37): warning C4305: 'initializing': truncation from 'int' to 'unsigned short'
+D:\fn4MI0600262_d3_4\fn4MI0600262_d3_4.cpp(16,29): warning C4309: 'initializing': truncation of constant value
+  fn4MI0600262_d3_4.vcxproj -> D:\fn4MI0600262_d3_1\x64\Debug\fn4MI0600262_d3_4.exe
